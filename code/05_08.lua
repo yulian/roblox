@@ -10,11 +10,11 @@ local function changeJump(otherPart)
         humanoid.UseJumpPower = true
         if(humanoid.JumpPower<boostPower) then
             humanoid.JumpPower = boostPower
-            print("점프력향상")
+            print("점프력 향상")
         end
         wait(3)
         humanoid.JumpPower = currentJump
-        print("점프력복구")
+        print("점프력 복구")
     end
 end
 
