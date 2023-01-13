@@ -9,6 +9,7 @@ local playerCoin = 0
 local setSuccess, errorMessage = pcall(function()
     coinStore:SetAsync(playerUserID, playerCoin)
 end)
+
 if not setSuccess then
     warn(errorMessage)
 end
