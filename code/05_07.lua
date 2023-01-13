@@ -7,11 +7,11 @@ local function changeSpeed(otherPart)
     if humanoid then
         originalSpeed = humanoid.WalkSpeed
         humanoid.WalkSpeed = 100
-        print("속도향상")
+        print("속도 향상")
         speedUpItem:Destroy()
         wait(3)
         humanoid.WalkSpeed = originalSpeed
-        print("속도회복")
+        print("속도 회복")
     end
 end
 
