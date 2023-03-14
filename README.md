@@ -50,6 +50,11 @@
 * 실습05-08 : 점프력 향상(p.196) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_08.lua)
 * 실습05-09 : 시프트 키와 방향키로 빨리 달리기(p.198) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_09.lua)
 ### 6장 고급 코딩 배우기
+* 실습06-01 : 서버에 데이터 저장(p.204) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_01.lua)
+* 실습06-02 : 사용자ID로 데이터 가져오기(p.207) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_02.lua)
+* 실습06-03 : 도구 만들어 착용하기(p.215) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_03.lua)
+* 실습06-04 : 사용자 입력으로 총알 재장전(p.217) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_04.lua)
+* 실습06-05 : 카메라 시점 조절하기(p.222) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_05.lua)
 ### 7장 특별한 효과 추가하기
 ### 8장 미니 게임 만들기
 ### 9장 콘텐츠 배포 및 수익화
