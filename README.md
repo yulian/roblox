@@ -56,6 +56,10 @@
 * 실습06-04 : 사용자 입력으로 총알 재장전(p.217) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_04.lua)
 * 실습06-05 : 카메라 시점 조절하기(p.222) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/06_05.lua)
 ### 7장 특별한 효과 추가하기
+* 실습07-01 : 폭발 효과(p.236) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_01.lua)
+* 실습07-02 : 폭발의 범위 제어하기(p.237) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_02.lua)
+* 실습07-03 : 배경 음악 적용하기(p.253) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_03.lua)
+* 실습07-04 : 음원 파일로 효과음 적용하기(p.260) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_04.lua)
 ### 8장 미니 게임 만들기
 ### 9장 콘텐츠 배포 및 수익화
 
