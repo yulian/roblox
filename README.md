@@ -66,5 +66,6 @@
 * 실습08-03 : 달고나 오비 게임 - 순간 이동(p.293) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_03.lua)
 * 실습08-04 : 투명 징검다리 게임(p.300) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_04.lua)
 ### 9장 콘텐츠 배포 및 수익화
-
-
+* 실습09-01 : 배지 추가하기(p.322) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/09_01.lua)
+* 실습09-02 : 개발자 제품 구매하기(p.331) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/09_02.lua)
+* 실습09-03 : 개발자 제품 구매버튼 만들기(p.334) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/09_03.lua)
