@@ -40,6 +40,15 @@
 * 실습04-06 : 점수판 증가하기(p.157) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_06.lua)
 * 실습04-07 : 디바운스 코드 적용하기(p.159) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_07.lua)
 ### 5장 상호작용 기능
+* 실습05-01 : 화면에 상호작용 버튼 만들기(p.168) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_01.lua)
+* 실습05-02 : 단축키로 공 색상 변경하기(p.171) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_02.lua)
+* 실습05-03 : 표지판으로 카운터 만들기(p.180) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_03.lua)
+* 실습05-04 : NPC와 대화하기(p.184) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_04.lua)
+* 실습05-05 : 체력 채우는 아이템 만들기 - 파란포션(p.187) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_05.lua)
+* 실습05-06 : 체력 채우는 아이템 만들기 - 빨간포션(p.189) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_06.lua)
+* 실습05-07 : 달리기 속도 올리기(p.194) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_07.lua)
+* 실습05-08 : 점프력 향상(p.196) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_08.lua)
+* 실습05-09 : 시프트 키와 방향키로 빨리 달리기(p.198) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/05_09.lua)
 ### 6장 고급 코딩 배우기
 ### 7장 특별한 효과 추가하기
 ### 8장 미니 게임 만들기
