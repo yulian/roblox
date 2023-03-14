@@ -1,8 +1,7 @@
 # 로블록스로 게임 만들기
-==========================
-루아 기초 떼고 메타버스 콘텐츠 만들고, 게임 만들고, 배포 수익화까지!
+## 루아 기초 떼고 메타버스 콘텐츠 만들고, 게임 만들고, 배포 수익화까지!
 ***
-<center><img src="https://github.com/yulian/roblox/blob/main/roblox_cover.png" width="400" height="450"></center>
+<center><img style="border:10px solid black;" src="https://github.com/yulian/roblox/blob/main/roblox_book.png" width="400" height="500"></center>
 
 ### 1장 로블록스 시작하기
 ### 2장 3차원 모델링과 지형 만들기
