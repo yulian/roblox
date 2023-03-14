@@ -61,6 +61,10 @@
 * 실습07-03 : 배경 음악 적용하기(p.253) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_03.lua)
 * 실습07-04 : 음원 파일로 효과음 적용하기(p.260) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/07_04.lua)
 ### 8장 미니 게임 만들기
+* 실습08-01 : 무궁화 꽃이 피었습니다 게임 - 인형이 보는 방향 제어(p.271) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_01.lua)
+* 실습08-02 : 무궁화 꽃이 피었습니다 게임 - 최종 소스코드(p.275) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_02.lua)
+* 실습08-03 : 달고나 오비 게임 - 순간 이동(p.293) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_03.lua)
+* 실습08-04 : 투명 징검다리 게임(p.300) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/08_04.lua)
 ### 9장 콘텐츠 배포 및 수익화
 
 
