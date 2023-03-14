@@ -32,6 +32,13 @@
 * 실습03-24 : 테이블 자료구조(p.128) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/03_24.lua)
 * 실습03-25 : 테이블 초기화(p.129) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/03_25.lua)
 ### 4장 로블록스에서 루아 다루기
+* 실습04-01 : 블록 사라지고 나타나게 만들기(p.135) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_01.lua)
+* 실습04-02 : 용암 만들고 효과 적용하기(p.141) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_02.lua)
+* 실습04-03 : 사라지는 장애물 만들기(p.145) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_03.lua)
+* 실습04-04 : 낮과 밤 시간대 변경하기(p.150) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_04.lua)
+* 실습04-05 : 점수판 만들기(p.155) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_05.lua)
+* 실습04-06 : 점수판 증가하기(p.157) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_06.lua)
+* 실습04-07 : 디바운스 코드 적용하기(p.159) -> [바로가기 링크](https://github.com/yulian/roblox/blob/main/code/04_07.lua)
 ### 5장 상호작용 기능
 ### 6장 고급 코딩 배우기
 ### 7장 특별한 효과 추가하기
